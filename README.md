@@ -1,6 +1,6 @@
 # Tennis_data_Airflow_Project
 
-![plot](/Users/suma/suma/Tennis_airflow.png?raw=true "Title")
+<img width="1193" alt="Tennis_airflow" src="https://user-images.githubusercontent.com/72820961/104627741-6a4c4100-5665-11eb-96c6-0fb8ee024301.png">
 
 
 
