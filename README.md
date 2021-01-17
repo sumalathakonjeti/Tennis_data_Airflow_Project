@@ -16,7 +16,7 @@ I took ATP tennis data for this project and analyzed who are the best players on
 • Use papermill to call the jupyter notebooks to aggregate the data for each type - Wimbledon, French Open, Australian Open and US Open  
 
 ## Tools Used:
- • Airflow
- • Pandas
- • Papermill
+ • Airflow                                                                                           
+ • Pandas                                                                                                                                                        
+ • Papermill                                                                                                                                                     
  • Jupyter notebook
