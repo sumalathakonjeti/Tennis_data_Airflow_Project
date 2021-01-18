@@ -97,9 +97,6 @@ default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
     'start_date': datetime(2020,11,28),
-    # 'email': ['sumalatha.konjeti@gmail.com'],
-    # 'email_on_failure': False,
-    # 'email_on_retry': False,
     'retries': 0,
     # 'retry_delay': timedelta(minutes=5),
 
