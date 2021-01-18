@@ -1,4 +1,4 @@
-player_id,fullname,hand,country,birthday
+player_id,name,hand,country,birthday
 atp_100001,Gardnar Mulloy,R,USA,1913-11-22
 atp_100003,Frank Sedgman,R,AUS,1927-10-02
 atp_100004,Giuseppe Merlo,R,ITA,1927-10-11
